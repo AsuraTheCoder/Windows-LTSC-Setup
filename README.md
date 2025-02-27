@@ -1,4 +1,4 @@
-# iNSTALLATION
+# Windows 10 LTSC
 
 
 # WINGET
