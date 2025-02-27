@@ -2,4 +2,4 @@
 
 
 # Winget Installer 
- Install Winget. Requires Internet, just use 
+ Install Winget. Requires Internet, just right click and run with powershell, or use bat file
