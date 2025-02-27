@@ -1,5 +1,5 @@
 # Windows 10 LTSC
 
 
-# WINGET
-INSTALL WINGET
+# Winget Installer 
+ Install Winget. Requires Internet, just use 
